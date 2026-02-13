@@ -1,6 +1,6 @@
 cask "clockoo" do
-  version "0.2.1"
-  sha256 "c5a0016e96a7c234242ac56a24131612786f7d528de91373e578b64f321a30a4"
+  version "0.3.0"
+  sha256 "1505439b4d5c9fabd682eab9c39ab8c2c30cbd981738266c6117bb591e41d429"
 
   url "https://github.com/julian-r/clockoo/releases/download/v#{version}/Clockoo.app.zip"
   name "Clockoo"
